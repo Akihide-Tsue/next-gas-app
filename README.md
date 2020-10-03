@@ -1,4 +1,4 @@
-# 家計簿アプリ
+# FX収支表示アプリ
 https://next-gas-app.web.app/gas-app
 Next.js+Redux(re-ducks構造化)+TypeScript+Web API(GAS)+Chart.js+Firebase
 
