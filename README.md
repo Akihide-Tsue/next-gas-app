@@ -1,4 +1,10 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+# 家計簿アプリ
+https://next-gas-app.web.app/gas-app
+Next.js+Redux(re-ducks構造化)+TypeScript+Web API(GAS)+Chart.js+Firebase
 
-### 起動
-npm run dev
+GASでgoogle スプレッドシートを読み込み
+Chart.jsでグラフ表示
+
+### To Do
+- [x] 認証Auth
+- [x] GASにPOSTすることで書き込みに対応
